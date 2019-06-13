@@ -1,0 +1,20 @@
+/**
+ * index.scss
+ * - Add any styles you want here!
+ */
+
+body{
+  border:1px solid #eee;
+}
+.left-component, .right-component{
+  height: - webkit – fill- available;
+}
+.left-component{
+    border:1px solid #eee;
+}
+.user-cover-container{
+  height: 200px;
+  background: #2b2b52;
+  background-image: url('./img/cover.jpg');
+  background-size: cover;
+}
